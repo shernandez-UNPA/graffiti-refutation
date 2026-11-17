@@ -1,0 +1,5 @@
+Graffiti 302 (λmax - mínimo autovalor positivo <= promedio de grados duales), clase tree, algoritmo mdes, corrida 19
+n = 16, E(G) = 0.004825587368319173, tiempo = 1.57 s, evaluaciones = 28830
+verificado al reetiquetar vértices: true
+graph6: O??P??@?C??DA@CCG?BGG
+aristas: 3-5 2-6 7-8 0-10 8-11 10-11 4-12 11-12 3-13 9-13 1-14 1-15 2-15 5-15 11-15

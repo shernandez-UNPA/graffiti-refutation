@@ -1,0 +1,5 @@
+Graffiti 715 (amplitud de autovalores no positivos <= promedio de grados mayores que la media), clase tree, algoritmo de, corrida 20
+n = 12, E(G) = 0.02638822173468247, tiempo = 0.59 s, evaluaciones = 13305
+verificado al reetiquetar vértices: true
+graph6: KH@G?KG_?G_O
+aristas: 1-2 2-3 1-5 4-5 5-7 6-7 4-8 0-9 5-10 9-10 6-11

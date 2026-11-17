@@ -1,0 +1,5 @@
+Graffiti 301 (amplitud de autovalores positivos <= armónico), clase tree, algoritmo mdes, corrida 10
+n = 14, E(G) = 0.02141054349217253, tiempo = 0.44 s, evaluaciones = 19704
+verificado al reetiquetar vértices: true
+graph6: M?{?OOGA?W@?A?A??
+aristas: 0-4 1-4 2-4 3-4 4-6 4-7 4-8 4-9 4-10 5-10 4-11 4-12 4-13

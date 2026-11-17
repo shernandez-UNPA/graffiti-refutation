@@ -1,0 +1,5 @@
+Graffiti 139 (-λ_{n-1} <= armónico), clase any, algoritmo mdes, corrida 21
+n = 24, E(G) = 0.06995269372053547, tiempo = 3.27 s, evaluaciones = 48277
+verificado al reetiquetar vértices: true
+graph6: WVGP__OC@?A?C?G?A?@??G??_?@??@???O??K??@_??C???
+aristas: 0-2 0-3 1-3 2-3 2-4 3-5 2-6 3-6 3-7 3-8 3-9 2-10 3-11 3-12 2-13 3-14 2-15 2-16 2-17 2-18 2-19 3-20 2-21 3-21 2-22 3-22 2-23

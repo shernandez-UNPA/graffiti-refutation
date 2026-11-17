@@ -1,0 +1,5 @@
+Graffiti 189 (moda(espectro laplaciano) <= #autovalores no positivos), clase any, algoritmo de, corrida 30
+n = 4, E(G) = 1.0, tiempo = 0.0 s, evaluaciones = 4
+verificado al reetiquetar vértices: true
+graph6: C}
+aristas: 0-1 0-2 1-2 0-3 1-3

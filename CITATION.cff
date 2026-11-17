@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "graffiti-refutation: differential evolution and exhaustive verification for Graffiti conjectures"
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/shernandez-UNPA/graffiti-refutation"
+authors:
+  - family-names: "Hernández"
+    given-names: "Sebastián"
+    orcid: "https://orcid.org/0009-0001-7141-3051"
+    affiliation: "Escuela de Sistemas e Informática, UARG, Universidad Nacional de la Patagonia Austral"
+keywords:
+  - graph theory
+  - conjectures
+  - counterexamples
+  - differential evolution
+  - exhaustive enumeration
+  - Julia

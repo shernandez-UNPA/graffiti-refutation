@@ -1,0 +1,5 @@
+Graffiti 139 (-λ_{n-1} <= armónico), clase any, algoritmo de, corrida 5
+n = 24, E(G) = 0.06995269372053992, tiempo = 2.52 s, evaluaciones = 36915
+verificado al reetiquetar vértices: true
+graph6: WXCP__oG@_C?G?C?A?@??C??_??_?@_??O??G???_??C???
+aristas: 0-2 1-2 2-3 3-4 3-5 2-6 3-6 3-7 2-8 3-8 2-9 2-10 3-10 2-11 2-12 3-13 3-14 2-15 3-16 2-17 3-18 2-19 3-19 3-20 2-21 3-22 2-23

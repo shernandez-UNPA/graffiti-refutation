@@ -1,0 +1,5 @@
+Graffiti 289 (λ2 <= promedio de grados duales), clase girth5, algoritmo rs, corrida 10
+n = 26, E(G) = 0.016360122024678514, tiempo = 5.05 s, evaluaciones = 47354
+verificado al reetiquetar vértices: true
+graph6: Y[??G????OAAC??????A??A???C?????G??g?O_???C?CG??G@CBG???
+aristas: 0-2 1-2 0-3 5-6 4-10 3-11 9-11 3-12 7-15 10-16 0-18 17-19 14-20 16-20 7-21 12-21 18-22 8-23 13-23 8-24 17-24 21-24 4-25 5-25 8-25

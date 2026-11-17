@@ -1,0 +1,5 @@
+Graffiti 302 (λmax - mínimo autovalor positivo <= promedio de grados duales), clase tree, algoritmo rs, corrida 29
+n = 18, E(G) = 0.004743150937634777, tiempo = 2.64 s, evaluaciones = 30289
+verificado al reetiquetar vértices: true
+graph6: Q??A??_a?_GC?P??C_@?AAI?@??
+aristas: 1-6 2-8 0-9 4-9 3-10 1-11 8-11 7-12 11-12 2-14 5-14 2-15 13-15 4-16 8-16 10-16 7-17

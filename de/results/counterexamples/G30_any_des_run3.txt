@@ -1,0 +1,5 @@
+Graffiti 30 (#autovalores positivos de distancias <= suma de temperaturas), clase any, algoritmo des, corrida 3
+n = 10, E(G) = 0.2142857142857144, tiempo = 0.28 s, evaluaciones = 13072
+verificado al reetiquetar vértices: true
+graph6: IHcMAJ?P?
+aristas: 1-2 2-3 0-4 3-4 4-5 0-6 1-6 1-7 5-7 0-8 1-8 1-9 5-9

@@ -1,0 +1,5 @@
+Graffiti 166 (sqrt(m) <= #autovalores no positivos), clase any, algoritmo des, corrida 2
+n = 5, E(G) = 0.2360679774997898, tiempo = 0.02 s, evaluaciones = 1712
+verificado al reetiquetar vértices: true
+graph6: DkK
+aristas: 0-1 1-2 0-3 2-4 3-4

@@ -1,0 +1,4 @@
+*.parcial/
+partes_n*/
+*.pdf
+.DS_Store

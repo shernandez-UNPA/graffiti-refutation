@@ -1,0 +1,5 @@
+Graffiti 197 (-λ_{n-1} <= rango del espectro de gravedad), clase k3free, algoritmo rs, corrida 5
+n = 17, E(G) = 0.06502348877621178, tiempo = 2.63 s, evaluaciones = 22981
+verificado al reetiquetar vértices: true
+graph6: P?_?ODC??@C@C??cA?A?_K??
+aristas: 0-4 4-6 6-7 1-8 5-8 8-10 2-11 10-11 3-12 6-13 9-13 3-14 1-15 9-15 2-16 3-16

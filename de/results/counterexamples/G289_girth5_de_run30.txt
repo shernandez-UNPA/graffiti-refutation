@@ -1,0 +1,5 @@
+Graffiti 289 (λ2 <= promedio de grados duales), clase girth5, algoritmo de, corrida 30
+n = 20, E(G) = 0.00634601731066331, tiempo = 1.65 s, evaluaciones = 27728
+verificado al reetiquetar vértices: true
+graph6: SCOc??@??Gd????_c??_????@?a??OC?O
+aristas: 0-3 1-4 2-5 0-6 7-8 5-10 9-10 2-11 4-11 6-13 12-13 2-14 3-15 7-17 14-17 1-18 16-18 6-19 16-19

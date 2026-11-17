@@ -1,0 +1,5 @@
+Graffiti 321 (índice <= promedio de even), clase k3free, algoritmo mdes, corrida 3
+n = 4, E(G) = 0.6180339887498949, tiempo = 0.0 s, evaluaciones = 1
+verificado al reetiquetar vértices: true
+graph6: Cd
+aristas: 0-1 0-3 2-3

@@ -1,0 +1,5 @@
+Graffiti 189 (moda(espectro laplaciano) <= #autovalores no positivos), clase any, algoritmo mdes, corrida 17
+n = 4, E(G) = 0.9999999999999996, tiempo = 0.0 s, evaluaciones = 1
+verificado al reetiquetar vértices: true
+graph6: Cv
+aristas: 0-1 0-2 0-3 1-3 2-3

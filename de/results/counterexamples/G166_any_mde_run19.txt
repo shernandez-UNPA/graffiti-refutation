@@ -1,0 +1,5 @@
+Graffiti 166 (sqrt(m) <= #autovalores no positivos), clase any, algoritmo mde, corrida 19
+n = 6, E(G) = 0.3166247903553998, tiempo = 0.09 s, evaluaciones = 3954
+verificado al reetiquetar vértices: true
+graph6: Ex~O
+aristas: 0-1 0-2 1-2 2-3 0-4 1-4 2-4 3-4 0-5 1-5 3-5

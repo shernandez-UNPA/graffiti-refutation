@@ -1,0 +1,5 @@
+Graffiti 711 (rango de deficiencias <= rango del espectro), clase any, algoritmo rs, corrida 21
+n = 5, E(G) = 2.0000000000000004, tiempo = 0.03 s, evaluaciones = 1645
+verificado al reetiquetar vértices: true
+graph6: Ds_
+aristas: 0-1 0-2 0-3 0-4

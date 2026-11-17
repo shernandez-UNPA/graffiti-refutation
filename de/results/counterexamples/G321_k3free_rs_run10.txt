@@ -1,0 +1,5 @@
+Graffiti 321 (índice <= promedio de even), clase k3free, algoritmo rs, corrida 10
+n = 4, E(G) = 0.23205080756887764, tiempo = 0.0 s, evaluaciones = 1
+verificado al reetiquetar vértices: true
+graph6: Cs
+aristas: 0-1 0-2 0-3

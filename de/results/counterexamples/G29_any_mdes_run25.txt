@@ -1,0 +1,5 @@
+Graffiti 29 (Randić <= #autovalores negativos de distancias), clase any, algoritmo mdes, corrida 25
+n = 7, E(G) = 0.44948974278317877, tiempo = 0.18 s, evaluaciones = 6681
+verificado al reetiquetar vértices: true
+graph6: FdHLG
+aristas: 0-1 0-3 2-3 2-4 1-5 4-5 0-6 2-6 5-6

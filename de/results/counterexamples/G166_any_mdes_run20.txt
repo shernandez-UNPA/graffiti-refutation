@@ -1,0 +1,5 @@
+Graffiti 166 (sqrt(m) <= #autovalores no positivos), clase any, algoritmo mdes, corrida 20
+n = 5, E(G) = 0.2360679774997898, tiempo = 0.1 s, evaluaciones = 2018
+verificado al reetiquetar vértices: true
+graph6: Dhc
+aristas: 0-1 1-2 2-3 0-4 3-4
